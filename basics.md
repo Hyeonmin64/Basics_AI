@@ -4,3 +4,8 @@
 
 - Universal approximation theorem for shallow network.
 
+### An Overview Of Artificial Neural Networks for Mathematicians
+
+<https://math.uchicago.edu/~may/REU2018/REUPapers/Guilhoto.pdf>
+
+= null
