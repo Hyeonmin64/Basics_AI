@@ -8,4 +8,4 @@
 
 <https://math.uchicago.edu/~may/REU2018/REUPapers/Guilhoto.pdf>
 
-= null
+- null
